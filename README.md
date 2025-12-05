@@ -2,11 +2,13 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 <h1>👨‍🔧 About Me </h1>
 
-I’m 19 years old and a full stack developer focused on building complete and well-structured web applications.
-My main stack includes ASP.NET MVC, C#, SQL, JavaScript, HTML, and CSS, along with additional knowledge in Python, PHP, and React Native.
+I’m 19 years old and a full stack developer focused on building complete, scalable, and well-structured web applications.
+My main tech stack includes ASP.NET MVC, C#, SQL, JavaScript, HTML, and CSS, and I also have additional experience with Python, PHP, and React Native.
 
-I enjoy working across both backend and frontend layers, following clean code principles, maintainable architecture, and consistent learning.
-I am currently seeking opportunities for internships or junior positions to gain real-world experience and contribute to professional development teams.
+I enjoy working across both backend and frontend layers, following clean code principles, maintainable architecture patterns, and a mindset of continuous learning.
+I am currently seeking internship or junior opportunities where I can gain real-world experience and contribute to professional development teams.
+
+Beyond technology, I enjoy reading books on psychology, marketing, and financial education — areas that I consider valuable complementary knowledge.
 
 <h1>🧠 Technologies & Tools </h1>
 <div style="display: inline_block">
