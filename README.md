@@ -17,7 +17,9 @@ I am currently seeking opportunities for internships or junior positions to gain
 <h2>🗄️ Databases</h2>
 <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <br>
 <h2>🛠️ Other Technologies</h2>
-<img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </div>
+<div style="display: flex"><img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></div>
+
+
 <h2>📂 Academic Project In Development (Capstone / TCC)</h2>
 <h3>🏢 Employee Portal – HR Management System</h3>
 
