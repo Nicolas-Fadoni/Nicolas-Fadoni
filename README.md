@@ -10,6 +10,8 @@ I am currently seeking internship or junior opportunities where I can gain real-
 
 Beyond technology, I enjoy reading books on psychology, marketing, and financial education — areas that I consider valuable complementary knowledge.
 
+ATENÇÃO RECRUTADORES: o meu projeto "Portal de Colaboradores", só irei disponibilizar acesso a visualização do código caso entre em contato comigo.
+
 <h1>🧠 Technologies & Tools </h1>
 <div style="display: inline_block">
 <h2>💻 Backend & Frameworks </h2>
