@@ -1,7 +1,3 @@
-<h1>🧑‍💻 Hello! I'm Nick </h1>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
-<h1>👨‍🔧 About Me </h1>
-
 # 👋 Hi, I’m Nicolas Fadoni
 
 I’m a **Systems Analysis and Development student** at **ETEC Comendador João Rays**, focused on **Web Development** and building **complete applications** (backend + frontend).
